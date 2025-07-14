@@ -1,5 +1,6 @@
 # 😷 Real-time Face Mask Detection System
 Demo - https://drive.google.com/file/d/1K6XVEwkvJCPtvzUNDXr_PvtBt7pLhwu0/view?usp=sharing
+
 A comprehensive computer vision application that detects faces in real-time and classifies whether individuals are wearing masks or not. Built with Streamlit, YOLOv11, and MobileNetV2, this system provides both live webcam detection and static image analysis capabilities.
 
 ## 🚀 Features
