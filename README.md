@@ -196,29 +196,10 @@ The training process is documented in `eda.ipynb` and follows a two-phase approa
    - Reduce webcam resolution if needed
    - Ensure sufficient RAM is available
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - **YOLOv11**: AdamCodd for the face detection model
 - **MobileNetV2**: Google Research for the base architecture
 - **Streamlit**: For the web framework
 - **OpenCV**: For computer vision capabilities
-
-## 📞 Support
-
-For questions, issues, or contributions, please open an issue on the repository or contact the development team.
-
----
-
-**Note**: This system is designed for educational and demonstration purposes. For production use in healthcare or security applications, additional validation and testing is recommended. 
+ 
